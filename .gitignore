@@ -1,0 +1,16 @@
+#Excludes python virtual environments
+
+.venv/
+
+#Excludes generated Python bytecode caches
+
+__pycache__/ 
+
+#Excludes local environment files containing configuration or secrets
+
+.env
+
+#Excludes macOS-generated metadata
+
+.DS_Store
+
